@@ -1,6 +1,7 @@
 Loop – Aplicație Desktop de Mesagerie
 Aplicația are ca scop oferirea unui instrument modern de comunicare între utilizatori, permițând trimiterea mesajelor, gestionarea conturilor, recuperarea parolei și vizualizarea rapidă a informațiilor din interfața principală.
 Aceasta este concepută pentru a fi ușor de utilizat, rapidă și accesibilă.
+Membrii echipei: Vasilcov Ovidiu, Țurcanu Alexei, Pegza Adrian și Candu Gregorio.
 Structura proiectului:
 Login Page
 Home Page (Chat Window)
